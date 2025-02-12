@@ -17,7 +17,7 @@
     padding: 30px 0 46px 162px;
     display: grid;
     grid-template-rows: 72px auto;
-    z-index: 2;
+    z-index: 99;
 }
 
 .main__img img {
